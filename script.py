@@ -1,5 +1,14 @@
-def greet(name):
-    print(f"Hello, {name}!")
+# script.py
+
+def add(a, b):
+    return a + b
 
 
-greet("John")
+
+
+
+#def greet(name):
+ #   print(f"Hello, {name}!")
+
+
+#greet("John")
